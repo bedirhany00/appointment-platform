@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AppointmentPlatform.Api/AppointmentPlatform.Api.csproj" />
+    <Project Path="src/AppointmentPlatform.Application/AppointmentPlatform.Application.csproj" />
+    <Project Path="src/AppointmentPlatform.Domain/AppointmentPlatform.Domain.csproj" />
+    <Project Path="src/AppointmentPlatform.Infrastructure/AppointmentPlatform.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AppointmentPlatform.IntegrationTests/AppointmentPlatform.IntegrationTests.csproj" />
+    <Project Path="tests/AppointmentPlatform.UnitTests/AppointmentPlatform.UnitTests.csproj" />
+  </Folder>
+</Solution>
